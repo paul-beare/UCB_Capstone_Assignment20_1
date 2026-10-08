@@ -4,7 +4,7 @@
 ## Project files
 - [Notebook: SampleDataLoadandReviewwNoise.ipynb](SampleDataLoadandReviewwNoise.ipynb)
 - [JSON Dataset: acp_mixed_outcomes_w_noise.json](acp_mixed_outcomes_w_noise.json)
-- [Dataset Generator: acp_extended_generator_w_noise.ipynb](acp_extended_generator_w_noise.ipynb)
+- [Dataset Generator: acp_extended_generator_w_noise.py](acp_extended_generator_w_noise.py)
 
 
 ### Problem presented
